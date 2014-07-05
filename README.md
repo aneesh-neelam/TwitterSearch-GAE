@@ -1,4 +1,6 @@
 TwitterSearch-GAE
 =================
 
-The backend app for Twitter Search, using Google App Engine
+The backend app for Twitter Search
+
+Using Google App Engine
